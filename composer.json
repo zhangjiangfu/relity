@@ -1,0 +1,14 @@
+{
+    "name": "zhangjiangfu/relity",
+    "description": "test project",
+    "type": "project",
+    "license": "mit",
+    "authors": [
+        {
+            "name": "zhangjiangfu",
+            "email": "978007159@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
